@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.LinkedListTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-04-24T06:29:10" hostname="XIAOMINOTEBOOK-" time="0.135">
+  <properties/>
+  <testcase name="should_remove_first_notnull_element_when_remove_null()" classname="org.example.LinkedListTest" time="0.129"/>
+  <testcase name="should_remove_first_null_element_when_remove_null()" classname="org.example.LinkedListTest" time="0.001"/>
+  <testcase name="should_remove_first_notnull_element_when_remove_notnull()" classname="org.example.LinkedListTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
